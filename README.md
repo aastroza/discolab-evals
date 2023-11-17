@@ -1,2 +1,2 @@
 # discolab-evals
-GitHub Repo for (https://www.discolab.cl/)[Discolab] Generative AI Evaluation
+GitHub Repo for [Discolab](https://www.discolab.cl/) Generative AI Evaluation
