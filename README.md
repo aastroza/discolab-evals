@@ -1,2 +1,2 @@
-# openai-template
-GitHub Repo for OpenAI/Modal/SQL products
+# discolab-evals
+GitHub Repo for (https://www.discolab.cl/)[Discolab] Generative AI Evaluation
